@@ -118,6 +118,31 @@ left: 10%;
 
   
 }
+.code{
+  margin: 3%;
+  padding: 0px;
+  background-color: #242442;
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: #fff;
+  top: 15%;
+  left: 80%;
+  font-weight: bold;
+  position: absolute;
+  transform: translate(-50%,-50%);
+    
+ 
+  border: 2px solid #a9a9a9;
+  border-radius: 15%;
+  color: #fff;
+ 
+  outline: 0;
+  animation-name: shine;
+  animation-duration: 0s;
+  animation-iteration-count: infinite;
+  border-color: #7600d6;
+  color: #f6b400;
+  box-shadow: 0px 4px 27px -12px #f6b400;
+}
 @keyframes shine {
   0%,
   100% {
