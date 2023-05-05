@@ -80,6 +80,9 @@ button {
   color: #fff;
   transition: all 0.2s ease;
   outline: 0;
+  border-color: #7600d6;
+  color: #f6b400;
+  box-shadow: 0px 4px 27px -12px #f6b400;
   
 }
 button:not(:last-child) {
